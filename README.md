@@ -35,4 +35,6 @@ Install the dependencies and devDependencies and start the server.
 ```sh
 npm i
 npm run start
+Логин: test02@m.ru
+Пароль: 12345 
 ```
